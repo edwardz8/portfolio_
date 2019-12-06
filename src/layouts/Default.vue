@@ -82,10 +82,6 @@
       <div class="container mx-auto flex flex-col lg:flex-row items-center justify-between py-8">
         <div class="mb-8 lg:mb-0">
           <div>Copyright 2019. All rights reserved.</div>
-          <div>
-            <a href="/rss.xml" class="text-white hover:text-gray-400 font-normal">RSS Feed</a> |
-            <a href="/sitemap.xml" class="text-white hover:text-gray-400 font-normal">Sitemap</a>
-          </div>
         </div>
         <ul class="flex items-center">
           <li class="mr-8">
@@ -99,7 +95,7 @@
             </a>
           </li>
 
-          <li class="mr-8">
+          <!-- <li class="mr-8">
             <a href="https://youtube.com/" target="_blank" class="text-white hover:text-gray-400">
               <svg width="26" height="20" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                 <path
@@ -108,7 +104,7 @@
                 />
               </svg>
             </a>
-          </li>
+          </li>-->
 
           <li class="mr-8">
             <a
