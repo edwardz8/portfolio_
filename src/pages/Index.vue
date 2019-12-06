@@ -169,7 +169,13 @@
           </div>
 
           <div class="text-lg sm:text-lg mb-16">
-            <form action="#" class="mb-12" name="contact" method="POST" data-netlify="true">
+            <form
+              class="mb-12"
+              name="contact"
+              method="post"
+              data-netlify="true"
+              data-netlify-honeypot="bot-field"
+            >
               <div class="flex flex-wrap mb-6 -mx-4">
                 <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
                   <label class="block mb-2 text-copy-primary" for="name">Name</label>
