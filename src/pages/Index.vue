@@ -3,7 +3,7 @@
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Zach Edwards</div>
-        <div class="leading-tight subtitle-color">Front-end Developer</div>
+        <div class="leading-tight subtitle-color">Front-End JavaScript Developer</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/undraw_code.svg" alt="hero" class="mx-auto sm:mx-0" />
@@ -13,7 +13,7 @@
 
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
-        Hello! My name is Zach and I'm a front-end javascript developer motivated to deliver user experiences people will not just enjoy but one that will improve their daily lives and help connect them with others. Check out the source code of some of my work on
+        Hello and welcome! My name is Zach and I'm a front-end javascript developer motivated to deliver user experiences people will not just enjoy but one that will improve their daily lives and help connect them with others. Check out the source code of some of my work on
         <a
           class="github-link"
           href="https://github.com/edwardz8"
@@ -168,10 +168,8 @@
             </svg>
           </div>
 
-          <p class="mb-12">How to reach me...</p>
-
           <div class="text-lg sm:text-lg mb-16">
-            <form action="#" class="mb-12">
+            <form class="mb-12" name="contact" method="POST" data-netlify="true">
               <div class="flex flex-wrap mb-6 -mx-4">
                 <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
                   <label class="block mb-2 text-copy-primary" for="name">Name</label>
