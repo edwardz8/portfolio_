@@ -13,7 +13,7 @@
 
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
-        Hello and welcome! My name is Zach and I'm a front-end javascript developer motivated to deliver user experiences people will not just enjoy but one that will improve their daily lives and help connect them with others. Check out the source code of some of my work on
+        Hello and welcome! My name is Zach and I'm a front-end javascript developer motivated to deliver a user experience people will not just enjoy but one that will improve their daily lives and help connect them with others. Check out the source code of some of my work on
         <a
           class="github-link"
           href="https://github.com/edwardz8"
