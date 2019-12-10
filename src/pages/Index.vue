@@ -26,7 +26,7 @@
           <g-image src="../../static/0.png" class="mb-6"></g-image>
           <div class="sm:flex sm:items-center flex-wrap">
             <a
-              href="http://basebook5.surge.sh/"
+              href="http://basebook6.surge.sh/"
               class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border border-blue text-blue hover:text-black"
             >Demo</a>
             <a
