@@ -13,7 +13,7 @@
 
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
-        Hello and welcome! My name is Zach and I'm a front-end javascript developer motivated to deliver a user experience people will not just enjoy but one that will improve their daily lives and help connect them with others. Check out the source code of some of my work on
+        Hello and welcome! My name is Zach and I'm a front-end engineer motivated to deliver a user experience people will not just enjoy but one that will improve their daily lives and help connect them with others. Check out the source code of some of my work on
         <a
           class="github-link"
           href="https://github.com/edwardz8"
@@ -31,6 +31,52 @@
             >Demo</a>
             <a
               href="https://github.com/edwardz8/vue-basebook"
+              class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:text-black"
+            >Code</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-inner mx-auto">
+      <p
+        class="text-lg sm:text-xl"
+      >RotoLinks is a personal project I've dedicated my free time to as well. My end goal for the fantasy golf draft app is to implement paypal so users can enter small golf drafts to compete with their friends and distribute the collective cash prize to whoever picks the best plays, which will be based off the lowest total score. It also contains a live leaderboard of the current European or PGA tournament.</p>
+
+      <div class="items-center py-6">
+        <div class="flex flex-col justify-between items-center mb-16">
+          <h2 class="font-bold mt-6 mb-6">RotoLinks</h2>
+          <g-image src="../../static/rotolinks-img.png" class="mb-6"></g-image>
+          <div class="sm:flex sm:items-center flex-wrap">
+            <a
+              href="http://rotolinks1.surge.sh/"
+              class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border border-blue text-blue hover:text-black"
+            >Demo</a>
+            <a
+              href="https://github.com/edwardz8/rotolinks"
+              class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:text-black"
+            >Code</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-inner mx-auto">
+      <p
+        class="text-lg sm:text-xl"
+      >The Fantasy Baseball Bluebook is a complete work in progress, but the functionality to date includes displaying baseball player fantasy projections and the ability to search. The end goal is to build a daily lineup optimizer where users will be able to choose and lock in a few of their favorite players for that given day and the optimizer will populate the rest of the lineup with the best remaining plays based off a number of conditions.</p>
+
+      <div class="items-center py-6">
+        <div class="flex flex-col justify-between items-center mb-16">
+          <h2 class="font-bold mt-6 mb-6">Fantasy Baseball Bluebook</h2>
+          <g-image src="../../static/bluebook-img.png" class="mb-6"></g-image>
+          <div class="sm:flex sm:items-center flex-wrap">
+            <a
+              href="http://basebook-v1.surge.sh/"
+              class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border border-blue text-blue hover:text-black"
+            >Demo</a>
+            <a
+              href="https://github.com/edwardz8/optimizer"
               class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:text-black"
             >Code</a>
           </div>
@@ -103,9 +149,15 @@
               class="w-32 h-32 rounded-full mb-8 lg:mb-0"
             />
           </div>
-          <div
-            class="flex-1 text-lg sm:text-xl ml-6"
-          >I've worked with JavaScript, along with a number of its libraries and frameworks for over 3 years and as my programming skills grow so does my passion and curiosity for reactive programming, API, database and test-driven development.</div>
+          <div class="flex-1 text-lg sm:text-xl ml-6">
+            <p>
+              I've worked with JavaScript, along with a number of its libraries and frameworks for over 3 years and as my programming skills grow so does my passion and curiosity for reactive programming, API, database and test-driven development. To learn more about me you can find my resume on
+              <a
+                class="github-link"
+                href="https://www.linkedin.com/in/zach-edwards-905b105a/"
+              >LinkedIn</a>.
+            </p>
+          </div>
         </div>
 
         <div class="grid-row">
