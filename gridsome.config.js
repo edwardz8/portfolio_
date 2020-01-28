@@ -14,11 +14,10 @@ const postcssPlugins = [
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
-  siteName: 'Gridsome Portfolio Starter',
-  siteDescription: 'A simple portfolio theme for Gridsome powered by Tailwind CSS v1',
+  siteName: 'Front-End Engineer Portfolio',
+  siteDescription: 'Gridsome portfolio powered by Tailwind',
   siteUrl: 'https://gridsome-portfolio-starter.netlify.com',
-  plugins: [
-    {
+  plugins: [{
       use: '@gridsome/vue-remark',
       options: {
         typeName: 'Documentation', // Required
@@ -26,8 +25,11 @@ module.exports = {
         pathPrefix: '/docs', // Add route prefix. Optional
         template: './src/templates/Documentation.vue', // Optional
         plugins: [
-          [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
-      ],
+          ['gridsome-plugin-remark-shiki', {
+            theme: 'Material-Theme-Palenight',
+            skipInline: true
+          }]
+        ],
       }
     },
     {
@@ -48,7 +50,7 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title: 'Gridsome Portfolio Starter Blog',
+          title: 'Portfolio',
           feed_url: 'https://gridsome-portfolio-starter.netlify.com/rss.xml',
           site_url: 'https://gridsome-portfolio-starter.netlify.com/'
         },
@@ -78,7 +80,10 @@ module.exports = {
   transformers: {
     remark: {
       plugins: [
-        [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+        ['gridsome-plugin-remark-shiki', {
+          theme: 'Material-Theme-Palenight',
+          skipInline: true
+        }]
       ],
       externalLinksTarget: '_blank',
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
