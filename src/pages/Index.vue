@@ -41,6 +41,29 @@
     <div class="container-inner mx-auto">
       <p
         class="text-lg sm:text-xl"
+      >PicApp is a front-end project built with React and its current technologies which include React Hooks and the Context state management API.</p>
+
+      <div class="items-center py-6">
+        <div class="flex flex-col justify-between items-center mb-16">
+          <h2 class="font-bold mt-6 mb-6">PicApp</h2>
+          <g-image src="../../static/picapp.png" class="mb-6"></g-image>
+          <div class="sm:flex sm:items-center flex-wrap">
+            <a
+              href="https://react-context-picscart.surge.sh/"
+              class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border border-blue text-blue hover:text-black"
+            >Demo</a>
+            <a
+              href="https://github.com/edwardz8/react-context-picapp"
+              class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:text-black"
+            >Code</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-inner mx-auto">
+      <p
+        class="text-lg sm:text-xl"
       >RotoLinks is a personal project I've dedicated my free time to as well. My end goal for the fantasy golf draft app is to implement paypal so users can enter small golf drafts to compete with their friends and distribute the collective cash prize to whoever picks the best plays, which will be based off the lowest total score. It also contains a live leaderboard of the current European or PGA tournament.</p>
 
       <div class="items-center py-6">
@@ -102,7 +125,7 @@
             <div class="text-sm text-gray-600">2018-Present</div>
             <div
               class="text-lg text-gray-600"
-            >Technologies include: Angular, TypeScript and RxJS. Docker. Highcharts. NGRX. Work with large API datasets in an agile development environment.</div>
+            >Technologies include: Angular, TypeScript and RxJS. Docker. Highcharts. NGRX. Vue. Work with large API datasets in an agile development environment.</div>
           </li>
           <li class="checkmark mb-6">
             <div>Solutions Developer - K2 Alliance Group</div>
