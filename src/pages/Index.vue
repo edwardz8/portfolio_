@@ -181,7 +181,7 @@
           </div>
           <div class="flex-1 text-lg sm:text-xl ml-6">
             <p>
-              I've worked with JavaScript, along with a number of its libraries and frameworks, for nearly 4 years and as my programming skills grow so does my passion and curiosity for mobile development with React Native, and API, database and test-driven development. When I'm not learning about the latest and greatest technologies you can find me on the golf course ( I'm currently between a 5 and 6 handicap ) working on my game or spending time with my lovely wife, Alicia. I'm also a published fiction writer. To learn more about me you can find my resume on
+              I've worked with JavaScript, along with a number of its libraries and frameworks, for nearly 4 years and as my programming skills grow so does my passion and curiosity for mobile development with React Native, and API, database and test-driven development. When I'm not learning about the latest and greatest technologies you can find me on the golf course ( I'm currently between a 5 and 6 handicap ) working on my game, playing or writing about fantasy sports or spending time with my lovely wife, Alicia. I'm also a published fiction writer. To learn more about me you can find my resume on
               <a
                 class="github-link"
                 href="https://www.linkedin.com/in/zach-edwards-905b105a/"
