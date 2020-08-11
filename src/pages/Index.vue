@@ -142,7 +142,7 @@
             >Led development team across all tiers of front-end and database management, including troubleshooting, integrating plug-ins and requesting external API data.</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Front-end Developer Program - The Iron Yard</div>
+            <div>Frontend Developer Program - The Iron Yard</div>
             <div class="text-sm text-gray-600">2017</div>
             <div class="text-lg text-gray-600">The Iron Yard Boot Camp - Nashville, TN</div>
           </li>
@@ -174,7 +174,7 @@
         <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
           <div>
             <g-image
-              src="../../static/me.png"
+              src="../../static/profile_pic_2020.jpeg"
               alt="avatar"
               class="w-32 h-32 rounded-full mb-8 lg:mb-0"
             />
