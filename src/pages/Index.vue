@@ -3,7 +3,7 @@
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Zach Edwards</div>
-        <div class="leading-tight subtitle-color">Front-End JavaScript Developer</div>
+        <div class="leading-tight subtitle-color">Frontend JavaScript Developer</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/undraw_code.svg" alt="hero" class="mx-auto sm:mx-0" />
@@ -13,11 +13,11 @@
 
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
-        Hello and welcome! My name is Zach and I'm a front-end engineer motivated to deliver a user experience people will not just enjoy but one that will improve their daily lives and help connect them with others. Check out the source code of some of my work on
+        Hello and welcome! My name is Zach and I'm a frontend engineer motivated to deliver user experiences people will not just enjoy but one that will improve their daily lives and help connect them with others. Check out the source code of some of my work on
         <a
           class="github-link"
           href="https://github.com/edwardz8"
-        >GitHub</a>. You can also demo and view the code of my most recent personal project -- a baseball social media app -- below:
+        >GitHub</a>. You can also demo and view the code of my most recent personal projects below:
       </p>
 
       <div class="items-center py-6">
@@ -72,7 +72,7 @@
           <g-image src="../../static/rotolinks-img.png" class="mb-6"></g-image>
           <div class="sm:flex sm:items-center flex-wrap">
             <a
-              href="http://rotolinks1.surge.sh/"
+              href="http://rotolinks5.surge.sh/"
               class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border border-blue text-blue hover:text-black"
             >Demo</a>
             <a
@@ -120,18 +120,25 @@
         </div>
 
         <ul class="text-md sm:text-l">
-          <li class="checkmark mb-6">
-            <div>Front-end Developer - Metadata Technology North America</div>
-            <div class="text-sm text-gray-600">2018-Present</div>
+           <li class=" mb-6">
+            <div>Frontend Developer - Ministry Brands</div>
+            <div class="text-sm text-gray-600">2020-Present</div>
             <div
-              class="text-lg text-gray-600"
+              class="text-md text-gray-600"
+            >Develop user experiences with javascript, html and css/sass in an agile development environment.</div>
+          </li>
+          <li class=" mb-6">
+            <div>Front-end Developer - Metadata Technology North America</div>
+            <div class="text-sm text-gray-600">2018-2020</div>
+            <div
+              class="text-md text-gray-600"
             >Technologies include: Angular, TypeScript and RxJS. Docker. Highcharts. NGRX. Vue. Work with large API datasets in an agile development environment.</div>
           </li>
-          <li class="checkmark mb-6">
-            <div>Solutions Developer - K2 Alliance Group</div>
+          <li class=" mb-6">
+            <div>Web Developer - K2 Alliance Group</div>
             <div class="text-sm text-gray-600">2017</div>
             <div
-              class="text-lg text-gray-600"
+              class="text-md text-gray-600"
             >Led development team across all tiers of front-end and database management, including troubleshooting, integrating plug-ins and requesting external API data.</div>
           </li>
           <li class="checkmark mb-6">
@@ -174,7 +181,7 @@
           </div>
           <div class="flex-1 text-lg sm:text-xl ml-6">
             <p>
-              I've worked with JavaScript, along with a number of its libraries and frameworks for over 3 years and as my programming skills grow so does my passion and curiosity for reactive programming, API, database and test-driven development. To learn more about me you can find my resume on
+              I've worked with JavaScript, along with a number of its libraries and frameworks for nearly 4 years and as my programming skills grow so does my passion and curiosity for mobile development with React Native, and API, database and test-driven development. When I'm not learning about the latest and greatest technologies you can find me on the golf course ( I'm currently between a 5 or 6 handicap ) working on my game. To learn more about me you can find my resume on
               <a
                 class="github-link"
                 href="https://www.linkedin.com/in/zach-edwards-905b105a/"
@@ -184,17 +191,17 @@
         </div>
 
         <div class="grid-row">
-          <div class>
-            <h3>Vue</h3>
-            <g-image src="../../static/vue.png" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
+           <div>
+            <h3>React</h3>
+            <g-image src="../../static/react.svg" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
           </div>
           <div>
             <h3>Node</h3>
             <g-image src="../../static/node.png" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
           </div>
           <div>
-            <h3>RxJS</h3>
-            <g-image src="../../static/rxjs.svg" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
+            <h3>MongoDB</h3>
+            <g-image src="../../static/mongodb.png" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
           </div>
           <div>
             <h3>GraphQL</h3>
@@ -204,20 +211,20 @@
             />
           </div>
           <div>
-            <h3>MongoDB</h3>
-            <g-image src="../../static/mongodb.png" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
+            <h3>Docker</h3>
+            <g-image src="../../static/docker.png" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
           </div>
           <div>
             <h3>SQL</h3>
             <g-image src="../../static/sql.png" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
           </div>
           <div>
-            <h3>React</h3>
-            <g-image src="../../static/react.svg" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
+            <h3>Vue</h3>
+            <g-image src="../../static/vue.png" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
           </div>
-          <div>
-            <h3>Docker</h3>
-            <g-image src="../../static/docker.png" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
+           <div>
+            <h3>RxJS</h3>
+            <g-image src="../../static/rxjs.svg" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
           </div>
         </div>
 
