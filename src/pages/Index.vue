@@ -17,7 +17,7 @@
         <a
           class="github-link"
           href="https://github.com/edwardz8"
-        >GitHub</a>. You can also demo and view the code of my most recent personal projects below:
+        >GitHub</a>. You can also demo and view code of my most recent personal projects:
       </p>
 
       <div class="items-center py-6">
