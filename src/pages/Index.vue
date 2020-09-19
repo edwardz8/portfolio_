@@ -13,7 +13,10 @@
 
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
-        Hello and welcome! My name is Zach and I'm a frontend engineer motivated to deliver user experiences people will not just enjoy but one that will improve their daily lives and help connect them with others. Check out the source code of some of my work on
+        Hello and welcome! My name is Zach and I'm a frontend engineer motivated to deliver user experiences people will not just enjoy but one that will improve their daily lives and help connect them with others. 
+        I’m a team player and I thrive in inclusive and innovative environments and my education as well as my technological background has equipped me with a unique skillset and the ability to tackle a diverse array of problems. I’m a creative and driven individual with a strong work ethic and problem-solving skillset and I have an undeniable passion for technology and curiosity for app design as well as database, containerization and test-driven development. I want to be a part of a team I can contribute to, help grow, learn from and dedicate my time and energy too for years to come.
+        
+        <br/>Check out the source code of some of my work on
         <a
           class="github-link"
           href="https://github.com/edwardz8"
