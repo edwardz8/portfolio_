@@ -3,7 +3,7 @@
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Zach Edwards</div>
-        <div class="leading-tight subtitle-color">Frontend JavaScript Developer</div>
+        <div class="leading-tight subtitle-color">Frontend Developer &amp; aspiring Cloud Engineer</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/undraw_code.svg" alt="hero" class="mx-auto sm:mx-0" />
@@ -14,16 +14,18 @@
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
         Hello and welcome! My name is Zach and I'm a frontend engineer motivated to deliver user experiences people will not just enjoy but one that will improve their daily lives and help connect them with others. 
-        I’m a team player and I thrive in inclusive and innovative environments and my education as well as my technological background has equipped me with a unique skillset and the ability to tackle a diverse array of problems. I’m a creative and driven individual with a strong work ethic and problem-solving skillset and I have an undeniable passion for technology and curiosity for app design as well as database, containerization and test-driven development. I want to be a part of a team I can contribute to, help grow, learn from and dedicate my time and energy too for years to come.
+        I’m a team player and I thrive in inclusive and innovative environments and my education as well as my technological background has equipped me with a unique skillset and the ability to tackle a diverse array of problems. 
+        I’m a creative and driven individual with a strong work ethic and problem-solving skillset. I am always learning and have an undeniable passion for technology and curiosity for app design as well as cloud computing, containerization and continuous integration; in fact, 
+        I am currently working towards receiving both the AWS Cloud Practitioner and SysOps Administrator certifications. I'm in search of a team I can contribute to, help grow, learn from and dedicate my time and energy too for years to come.
         
-        <br/>Check out the source code of some of my work on
+        <br/><br/><span class="about_me_break">Check out the source code of some of my work on</span>
         <a
           class="github-link"
           href="https://github.com/edwardz8"
-        >GitHub</a>. You can also demo and view code of my most recent personal projects:
+        > GitHub</a>. You can also demo and view code of my most recent personal projects:
       </p>
 
-      <div class="items-center py-6">
+      <div class="items-center py-6 mt-6">
         <div class="flex flex-col justify-between items-center mb-16">
           <h2 class="font-bold mt-6 mb-6">Basebook</h2>
           <g-image src="../../static/0.png" class="mb-6"></g-image>
@@ -34,6 +36,29 @@
             >Demo</a>
             <a
               href="https://github.com/edwardz8/vue-basebook"
+              class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:text-black"
+            >Code</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+      <div class="container-inner mx-auto">
+      <p
+        class="text-lg sm:text-xl"
+      >RotoLinks is a personal project I've dedicated my free time to as well. My end goal for the fantasy golf draft app is to implement paypal so users can enter small golf drafts to compete with their friends and distribute the collective cash prize to whoever picks the best plays, which will be based off the lowest total score. It also contains a live leaderboard of the current European or PGA tournament.</p>
+
+      <div class="items-center py-6">
+        <div class="flex flex-col justify-between items-center mb-16">
+          <h2 class="font-bold mt-6 mb-6">RotoLinks</h2>
+          <g-image src="../../static/rotolinks-img.png" class="mb-6"></g-image>
+          <div class="sm:flex sm:items-center flex-wrap">
+            <a
+              href="http://rotolinks5.surge.sh/"
+              class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border border-blue text-blue hover:text-black"
+            >Demo</a>
+            <a
+              href="https://github.com/edwardz8/rotolinks"
               class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:text-black"
             >Code</a>
           </div>
@@ -57,29 +82,6 @@
             >Demo</a>
             <a
               href="https://github.com/edwardz8/react-context-picapp"
-              class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:text-black"
-            >Code</a>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="container-inner mx-auto">
-      <p
-        class="text-lg sm:text-xl"
-      >RotoLinks is a personal project I've dedicated my free time to as well. My end goal for the fantasy golf draft app is to implement paypal so users can enter small golf drafts to compete with their friends and distribute the collective cash prize to whoever picks the best plays, which will be based off the lowest total score. It also contains a live leaderboard of the current European or PGA tournament.</p>
-
-      <div class="items-center py-6">
-        <div class="flex flex-col justify-between items-center mb-16">
-          <h2 class="font-bold mt-6 mb-6">RotoLinks</h2>
-          <g-image src="../../static/rotolinks-img.png" class="mb-6"></g-image>
-          <div class="sm:flex sm:items-center flex-wrap">
-            <a
-              href="http://rotolinks5.surge.sh/"
-              class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border border-blue text-blue hover:text-black"
-            >Demo</a>
-            <a
-              href="https://github.com/edwardz8/rotolinks"
               class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:text-black"
             >Code</a>
           </div>
@@ -184,7 +186,9 @@
           </div>
           <div class="flex-1 text-lg sm:text-xl ml-6">
             <p>
-              I've worked with JavaScript, along with a number of its libraries and frameworks, for nearly 4 years and as my programming skills grow so does my passion and curiosity for mobile development with React Native, and API, database and test-driven development. When I'm not learning about the latest and greatest technologies you can find me on the golf course ( I'm currently between a 5 and 6 handicap ) working on my game, playing or writing about fantasy sports or spending time with my lovely wife, Alicia. I'm also a published fiction writer. To learn more about me you can find my resume on
+              I've worked with JavaScript - along with several other languages - and a number of its libraries 
+              and frameworks, approaching 4 years now and as my programming skills grow so does
+               my passion and curiosity for cloud and test-driven development. When I'm not learning about the latest and greatest technologies, building sites with GraphQL and Vue or React and completing labs on A Cloud Guru or coding challenges on LeetCode, you can find me on the golf course ( I'm currently between a 5 and 6 handicap ) working on my game, playing fantasy sports or spending time with my lovely wife, Alicia. I'm also a published fiction writer. To learn more about me you can find my resume on
               <a
                 class="github-link"
                 href="https://www.linkedin.com/in/zach-edwards-905b105a/"
@@ -213,6 +217,14 @@
               class="w-32 h-32 rounded-full mb-8 lg:mb-0"
             />
           </div>
+           <div>
+            <h3>Vue</h3>
+            <g-image src="../../static/vue.png" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
+          </div>
+           <div>
+            <h3>AWS</h3>
+            <g-image src="../../static/aws1.png" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
+          </div>
           <div>
             <h3>Docker</h3>
             <g-image src="../../static/docker.png" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
@@ -220,14 +232,6 @@
           <div>
             <h3>SQL</h3>
             <g-image src="../../static/sql.png" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
-          </div>
-          <div>
-            <h3>Vue</h3>
-            <g-image src="../../static/vue.png" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
-          </div>
-           <div>
-            <h3>RxJS</h3>
-            <g-image src="../../static/rxjs.svg" class="w-32 h-32 rounded-full mb-8 lg:mb-0" />
           </div>
         </div>
 
