@@ -3,7 +3,7 @@
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Zach Edwards</div>
-        <div class="leading-tight subtitle-color">Frontend Developer &amp; aspiring Cloud Engineer</div>
+        <div class="leading-tight subtitle-color">Frontend Developer learning Cloud Engineering</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/undraw_code.svg" alt="hero" class="mx-auto sm:mx-0" />
@@ -14,8 +14,7 @@
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
         Hello and welcome! My name is Zach and I'm a frontend engineer motivated to deliver user experiences people will not just enjoy but one that will improve their daily lives and help connect them with others. 
-        I’m a team player and I thrive in inclusive and innovative environments and my education as well as my technological background has equipped me with a unique skillset and the ability to tackle a diverse array of problems. 
-        I’m a creative and driven individual with a strong work ethic and problem-solving skillset. I am always learning and have an undeniable passion for technology and curiosity for app design as well as cloud computing, containerization and continuous integration; in fact, 
+        I am always learning and have an undeniable passion for technology and curiosity for app design as well as cloud computing, containerization and continuous integration; in fact, 
         I am currently working towards receiving both the AWS Cloud Practitioner and SysOps Administrator certifications. I'm in search of a team I can contribute to, help grow, learn from and dedicate my time and energy too for years to come.
         
         <br/><br/><span class="about_me_break">Check out the source code of some of my work on</span>
