@@ -14,8 +14,7 @@
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
         Hello and welcome! My name is Zach and I'm a frontend engineer motivated to deliver user experiences people will not just enjoy but one that will improve their daily lives and help connect them with others. 
-        I am always learning and have an undeniable passion for technology and curiosity for app design as well as cloud computing, containerization and continuous integration; in fact, 
-        I am currently working towards receiving both the AWS Cloud Practitioner and SysOps Administrator certifications. I'm in search of a team I can contribute to, help grow, learn from and dedicate my time and energy too for years to come.
+        I am always learning and have an undeniable passion for technology and curiosity for app design as well as cloud computing, containerization and data visualization. I'm in search of a team I can contribute to, help grow, learn from and dedicate my time and energy too for years to come.
         
         <br/><br/><span class="about_me_break">Check out the source code of some of my work on</span>
         <a
@@ -186,8 +185,8 @@
           <div class="flex-1 text-lg sm:text-xl ml-6">
             <p>
               I've worked with JavaScript - along with several other languages - and a number of its libraries 
-              and frameworks, approaching 4 years now and as my programming skills grow so does
-               my passion and curiosity for cloud and test-driven development. When I'm not learning about the latest and greatest technologies, building sites with GraphQL and Vue or React and completing labs on A Cloud Guru or coding challenges on LeetCode, you can find me on the golf course ( I'm currently between a 5 and 6 handicap ) working on my game, playing fantasy sports or spending time with my lovely wife, Alicia. I'm also a published fiction writer. To learn more about me you can find my resume on
+              and frameworks, for over 3 years and as my programming skills grow so does
+               my passion and curiosity for cloud and test-driven development as well as data visualization. When I'm not learning about the latest and greatest technologies, building sites with GraphQL and Vue or React and completing labs on A Cloud Guru or coding challenges on LeetCode, you can find me on the golf course ( I'm currently between a 5 and 6 handicap ) working on my game, playing fantasy sports or spending time with my lovely wife, Alicia. I'm also a published fiction writer. To learn more about me you can find my resume on
               <a
                 class="github-link"
                 href="https://www.linkedin.com/in/zach-edwards-905b105a/"
