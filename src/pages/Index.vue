@@ -3,7 +3,7 @@
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Zach Edwards</div>
-        <div class="leading-tight subtitle-color">Frontend Developer learning Cloud Engineering</div>
+        <div class="leading-tight subtitle-color">Frontend Engineer</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/undraw_code.svg" alt="hero" class="mx-auto sm:mx-0" />
