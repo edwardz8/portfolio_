@@ -20,8 +20,36 @@
         <a
           class="github-link"
           href="https://github.com/edwardz8"
-        > GitHub</a>. You can also demo and view code of my most recent personal projects:
+        > GitHub</a>. You can also demo and view code of my most recent personal projects below.
       </p>
+
+       <p class="text-lg sm:text-xl mt-6"
+      >The RotoRink Player Rater is a front-stack project built with SQL, Node.js and React along with its current technologies, including React Hooks and the Context state management API.</p>
+
+      <div class="items-center py-6">
+        <div class="flex flex-col justify-between items-center mb-16">
+          <h2 class="font-bold mt-6 mb-6">RotoRink Player Rater (Deployed Demo Coming Soong)</h2>
+          <g-image src="../../static/player_rater.png" class="mb-6"></g-image>
+          <div class="sm:flex sm:items-center flex-wrap">
+            <a
+              href="https://github.com/edwardz8/player-rater"
+              class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border border-blue text-blue hover:text-black"
+            >Client Code</a>
+            <a
+              href="https://github.com/edwardz8/player-rater-server"
+              class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:text-black"
+            >Server Code</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+    <div class="container-inner mx-auto">
+      <p
+        class="text-lg sm:text-xl"
+      >Basebook is front-end project with with Vue.js and Firebase and allows users to look up player stats and comment on their favorite teams and players.</p>
 
       <div class="items-center py-6 mt-6">
         <div class="flex flex-col justify-between items-center mb-16">
@@ -57,52 +85,6 @@
             >Demo</a>
             <a
               href="https://github.com/edwardz8/rotolinks"
-              class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:text-black"
-            >Code</a>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="container-inner mx-auto">
-      <p
-        class="text-lg sm:text-xl"
-      >PicApp is a front-end project built with React and its current technologies which include React Hooks and the Context state management API.</p>
-
-      <div class="items-center py-6">
-        <div class="flex flex-col justify-between items-center mb-16">
-          <h2 class="font-bold mt-6 mb-6">PicApp</h2>
-          <g-image src="../../static/picapp.png" class="mb-6"></g-image>
-          <div class="sm:flex sm:items-center flex-wrap">
-            <a
-              href="https://react-context-picscart.surge.sh/"
-              class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border border-blue text-blue hover:text-black"
-            >Demo</a>
-            <a
-              href="https://github.com/edwardz8/react-context-picapp"
-              class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:text-black"
-            >Code</a>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="container-inner mx-auto">
-      <p
-        class="text-lg sm:text-xl"
-      >The Fantasy Baseball Bluebook is a complete work in progress, but the functionality to date includes displaying baseball player fantasy projections and the ability to search. The end goal is to build a daily lineup optimizer where users will be able to choose and lock in a few of their favorite players for that given day and the optimizer will populate the rest of the lineup with the best remaining plays based off a number of conditions.</p>
-
-      <div class="items-center py-6">
-        <div class="flex flex-col justify-between items-center mb-16">
-          <h2 class="font-bold mt-6 mb-6">Fantasy Baseball Bluebook</h2>
-          <g-image src="../../static/bluebook-img.png" class="mb-6"></g-image>
-          <div class="sm:flex sm:items-center flex-wrap">
-            <a
-              href="http://basebook-v1.surge.sh/"
-              class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border border-blue text-blue hover:text-black"
-            >Demo</a>
-            <a
-              href="https://github.com/edwardz8/optimizer"
               class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:text-black"
             >Code</a>
           </div>
