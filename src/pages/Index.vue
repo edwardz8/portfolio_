@@ -24,13 +24,17 @@
       </p>
 
        <p class="text-lg sm:text-xl mt-6"
-      >The RotoRink Player Rater is a front-stack project built with SQL, Node.js and React along with its current technologies, including React Hooks and the Context state management API.</p>
+      >The RotoRink Player Rater is a full-stack project built with SQL, Node.js and React along with its current technologies, including React Hooks and the Context state management API.</p>
 
       <div class="items-center py-6">
         <div class="flex flex-col justify-between items-center mb-16">
-          <h2 class="font-bold mt-6 mb-6">RotoRink Player Rater (Deployed Demo Coming Soong)</h2>
+          <h2 class="font-bold mt-6 mb-6">RotoRink Player Rater</h2>
           <g-image src="../../static/player_rater.png" class="mb-6"></g-image>
           <div class="sm:flex sm:items-center flex-wrap">
+            <a
+              href="https://rotorinkplayerrater.netlify.com"
+              class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border border-blue text-blue hover:text-black"
+            >Demo</a>
             <a
               href="https://github.com/edwardz8/player-rater"
               class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border border-blue text-blue hover:text-black"
