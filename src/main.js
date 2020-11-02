@@ -4,6 +4,7 @@
 import DefaultLayout from '~/layouts/Default.vue'
 import VueScrollTo from 'vue-scrollto'
 import VueFuse from 'vue-fuse'
+import VueAnalytics from 'vue-analytics'
 
 export default function (Vue, {
   router,
@@ -19,6 +20,10 @@ export default function (Vue, {
   })
 
   Vue.use(VueFuse)
+  
+  Vue.use(VueAnalytics, {
+    id: 'G-3VGZ3P7L1H'
+  })
 
   head.meta.push({
     name: 'keywords',
